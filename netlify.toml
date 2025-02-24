@@ -1,5 +1,5 @@
 [build]
-  RUBY_VERSION = "3.1.0"
+  RUBY_VERSION = "3.3.0"
   command = "gem update --system 3.3.22 && bundle install && jekyll build"
 
 [build.environment]

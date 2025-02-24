@@ -16,4 +16,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'ffi', '~> 1.15.5'
 
-ruby '~> 3.1.0'
+ruby '~> 3.3.0'
